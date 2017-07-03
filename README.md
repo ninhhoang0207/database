@@ -1,2 +1,1 @@
-# mygithub
-anything
+This is demo for using Github
